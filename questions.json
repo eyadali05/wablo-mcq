@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which of these is a large body of water?",
+      "options": [
+        "Mountain",
+        "Lake",
+        "Forest",
+        "Desert"
+      ],
+      "answer": "Lake"
+    },
+    {
+      "question": "What is the name of the big, round object we live on?",
+      "options": [
+        "Sun",
+        "Moon",
+        "Earth",
+        "Star"
+      ],
+      "answer": "Earth"
+    },
+    {
+      "question": "Which direction does the sun rise in?",
+      "options": [
+        "North",
+        "East",
+        "South",
+        "West"
+      ],
+      "answer": "East"
+    },
+    {
+      "question": "What do we call a frozen, white precipitation that falls from the sky?",
+      "options": [
+        "Rain",
+        "Cloud",
+        "Snow",
+        "Wind"
+      ],
+      "answer": "Snow"
+    },
+    {
+      "question": "What do we call a piece of land that is completely surrounded by water?",
+      "options": [
+        "Island",
+        "Mountain",
+        "Valley",
+        "Canyon"
+      ],
+      "answer": "Island"
+    }
+  ]
+}
